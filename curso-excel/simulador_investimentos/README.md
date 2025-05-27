@@ -1,13 +1,16 @@
-# 📊 Simulador de investimentos em Fundos imobiliários
+# 📊 Simulador de Investimentos em Fundos Imobiliários
 
-Projeto voltado à criação de um simulador de investimentos.
+Projeto que oferece um simulador para investimentos em fundos imobiliários, facilitando a análise e tomada de decisões em relação aos aportes necessários para viver, dos sonhados dividendos.
 
 ## 💻 Tecnologias Utilizadas
 
-- Excel
+- Microsoft Excel
 
 ## ▶️ Como Executar
 
 1. Abra o Simulador de investimentos.xlsx
-2. Pronto, você já está na interface e pdoe fazer as simulações.
-OBS: a planilha está bloqueada e só aceita o preenchimento nos campos em laranja. Se quiser, editar precisará desbloquear e também tirar do oculto a tablea de apoio.
+2. Você estará na interface principal para realizar suas simulações.
+
+### Importante:
+A planilha está protegida e aceita preenchimento apenas nos campos destacados em laranja.
+Para editar outras áreas, será necessário desbloquear a planilha e desocultar a tabela de apoio.
