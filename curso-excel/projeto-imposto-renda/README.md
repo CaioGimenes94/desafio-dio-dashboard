@@ -1,6 +1,6 @@
-# 📊 Simulador de investimentos em Fundos imobiliários
+# 💰 Organizador de Imposto de Renda - Excel
 
-Projeto voltado à criação de um simulador de investimentos.
+Uma planilha interativa em Excel com interface amigável para organizar os dados necessários para declaração do Imposto de Renda. Ideal para uso pessoal ou por quem quer simplificar o preenchimento no sistema da Receita Federal.
 
 ## 💻 Tecnologias Utilizadas
 
@@ -8,6 +8,6 @@ Projeto voltado à criação de um simulador de investimentos.
 
 ## ▶️ Como Executar
 
-1. Abra o Simulador de investimentos.xlsx
-2. Pronto, você já está na interface e pdoe fazer as simulações.
-OBS: a planilha está bloqueada e só aceita o preenchimento nos campos em laranja. Se quiser, editar precisará desbloquear e também tirar do oculto a tablea de apoio.
+1. Baixe a planilha [`organizador-imposto-renda.xlsx`](./organizador-imposto-renda.xlsx)
+2. Pronto, você já está na interface e pode preencher os campos com suas informações.
+OBS: a planilha está bloqueada e só aceita o preenchimento em alguns campos. Se quiser, editar precisará desbloquear e também tirar do oculto a tabela de apoio.
